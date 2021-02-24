@@ -1,6 +1,4 @@
-# Começando um projeto React com a rocketseat, no evento nextlevelweek 4 edição :D
 
-![alt text](https://github.com/LUCASRENAA/NLW_EDICAO4/blob/main/imgs/trilha_react.png?raw=true)
 
 # Algumas dicas
 React é uma biblioteca de construção de interfaces de alta performace, tudo feito em componentes
